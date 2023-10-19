@@ -12,13 +12,12 @@ con esto buscarmeos
 - brindar soluciones personalizadas a posibles clientes
 
 ## Proceso del Proyecto
-### ETL (Extraction, Transformation and Loading)
+### ETL (Extraction, Transformation and Loading) - EDA (Exploratory Data Analysis-EDA)
 comenzamos con la extracicion de los datos desde la pagina de Enacom [Datasets](https://datosabiertos.enacom.gob.ar/dashboards/20000/acceso-a-internet/)
-extraido los datos necesarios comenze limpiando, corrigiendo algunos formatos y uniendo algunos de los datasets.
+extraido los datos necesarios iniciamos limpieza de datos para eliminar errores, valores nulos, estandarización de formatos y valores, terminado el proceso de limpieza realizamos algunos analisis generales buscando obtener mas de informacion de los mismos y buscar correalciones entre variables para unir datasets relacionados.
 *`encontraremos este proceso en el archivo EDA.ipynb`*
 
-### EDA (Exploratory Data Analysis-EDA)
-Ya terminado el proceso de ETL realize en primera instancia algunos analisis generales y mapas de calor buscando obtener un poco mas de informacion de los mismos y buscar correalciones entre variables.
-*`encontraremos este analisis en el archivo EDA.ipynb`*
+### Analisi de Datos - Creacion de Dashboard
+
 
 *Con esto finalizamos el Proyecto individual Nº2 de la carrera Data Science Gracias por su atención*
